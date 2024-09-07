@@ -1,6 +1,10 @@
 name = "Applications Setup"
 
 [[data]]
+name = "Flatpak"
+script = "setup-flatpak.sh"
+
+[[data]]
 name = "Alacritty"
 script = "alacritty-setup.sh"
 
