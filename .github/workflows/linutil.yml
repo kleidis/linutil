@@ -2,7 +2,7 @@ name: LinUtil Release
 
 on:
   push:
-    branches: ["main"]
+    branches: [*]
 
 permissions:
   contents: write
